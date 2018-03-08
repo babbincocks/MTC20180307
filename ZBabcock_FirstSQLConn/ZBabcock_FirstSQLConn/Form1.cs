@@ -20,19 +20,30 @@ namespace ZBabcock_FirstSQLConn
 
         private void btnLoad_Click(object sender, EventArgs e)
         {         //Edit first row of connString to change the server, second row for database.
-            string connString = @"Server=PL1\MTCDB;
+            try
+            {
+                string connString = @"Server=PL1\MTCDB;
                                     Database=AdventureWorks2012;
                                         Trusted_Connection=True";
 
-            SqlConnection sqlConn = new SqlConnection(connString);
+                SqlConnection sqlConn = new SqlConnection(connString);
 
-            SqlDataAdapter sqlDataAd = new SqlDataAdapter("sp_VendorInfo", sqlConn);
+                SqlDataAdapter sqlDataAd = new SqlDataAdapter("sp_VendorInfo", sqlConn);
 
-            DataTable dtVendors = new DataTable();
+                DataTable dtVendors = new DataTable();
 
-            sqlDataAd.Fill(dtVendors);
+                sqlDataAd.Fill(dtVendors);
 
-            dataGridVend.DataSource = dtVendors;
+                dataGridVend.DataSource = dtVendors;
+
+            }
+            catch
+            {
+                MessageBox.Show("There was an error with displaying the data. It was most likely due to either the attempted connection string or the data adapter.");
+
+            }
+
+
         }
     }
 }

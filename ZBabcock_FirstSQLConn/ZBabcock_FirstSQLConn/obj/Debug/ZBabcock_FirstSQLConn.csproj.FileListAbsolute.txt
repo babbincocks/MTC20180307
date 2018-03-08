@@ -1,0 +1,10 @@
+C:\Users\Cyberadmin\Desktop\ZBabcock_FirstSQLConn\ZBabcock_FirstSQLConn\bin\Debug\ZBabcock_FirstSQLConn.exe.config
+C:\Users\Cyberadmin\Desktop\ZBabcock_FirstSQLConn\ZBabcock_FirstSQLConn\bin\Debug\ZBabcock_FirstSQLConn.exe
+C:\Users\Cyberadmin\Desktop\ZBabcock_FirstSQLConn\ZBabcock_FirstSQLConn\bin\Debug\ZBabcock_FirstSQLConn.pdb
+C:\Users\Cyberadmin\Desktop\ZBabcock_FirstSQLConn\ZBabcock_FirstSQLConn\obj\Debug\ZBabcock_FirstSQLConn.csprojResolveAssemblyReference.cache
+C:\Users\Cyberadmin\Desktop\ZBabcock_FirstSQLConn\ZBabcock_FirstSQLConn\obj\Debug\ZBabcock_FirstSQLConn.frmVendor.resources
+C:\Users\Cyberadmin\Desktop\ZBabcock_FirstSQLConn\ZBabcock_FirstSQLConn\obj\Debug\ZBabcock_FirstSQLConn.Properties.Resources.resources
+C:\Users\Cyberadmin\Desktop\ZBabcock_FirstSQLConn\ZBabcock_FirstSQLConn\obj\Debug\ZBabcock_FirstSQLConn.csproj.GenerateResource.Cache
+C:\Users\Cyberadmin\Desktop\ZBabcock_FirstSQLConn\ZBabcock_FirstSQLConn\obj\Debug\ZBabcock_FirstSQLConn.csproj.CoreCompileInputs.cache
+C:\Users\Cyberadmin\Desktop\ZBabcock_FirstSQLConn\ZBabcock_FirstSQLConn\obj\Debug\ZBabcock_FirstSQLConn.exe
+C:\Users\Cyberadmin\Desktop\ZBabcock_FirstSQLConn\ZBabcock_FirstSQLConn\obj\Debug\ZBabcock_FirstSQLConn.pdb
